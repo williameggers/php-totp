@@ -1,0 +1,6 @@
+composer.lock
+vendor/
+.devcontainer/
+phpcs.xml
+.php-cs-fixer.php
+Dockerfile

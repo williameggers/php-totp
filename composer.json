@@ -1,0 +1,19 @@
+{
+    "name": "williameggers/php-totp",
+    "description": "TOTP/HOTP library for PHP",
+    "keywords": [
+        "totp",
+        "hotp",
+        "two-factor",
+        "authentication"
+    ],
+    "license": "MIT",
+    "require": {
+        "php": "^7.3 || ^7.4 || ^8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "williameggers\\phptotp\\": "src/"
+        }
+    }
+}
